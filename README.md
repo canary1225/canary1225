@@ -5,5 +5,5 @@ I mostly code in python, sometimes html and css (~~i'm trying to figure out rust
 - USA
 - Eastern Standard Time
 - Minor, He/Him
-- Arch linux larper
+- NixOS Larper
 - Anti-Vibecoding
