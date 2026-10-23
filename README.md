@@ -17,3 +17,9 @@ welcome to my profile
 - Rust (once again)
 - JavaScript
 - C
+
+### Past usernames
+> I can't stop changing my username for some reason :sob:
+- AceOfSpades
+- lith1um
+- w1nter
