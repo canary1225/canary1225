@@ -1,9 +1,19 @@
 # hello!!
-I mostly code in python, sometimes html and css (~~i'm trying to figure out rust rn~~ (i gave up rust))
+welcome to my profile
 
 ## About me
 - USA
 - Eastern Standard Time
 - Minor, He/Him
-- NixOS Larper
+- Linux Larper
 - Anti-Vibecoding
+
+## Languages I know
+- Python
+- HTML
+- CSS
+
+## Languages I'm trying to learn
+- Rust (once again)
+- JavaScript
+- C
