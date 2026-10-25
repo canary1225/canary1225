@@ -10,6 +10,7 @@ welcome to my profile
 
 ## Languages I know
 - Python
+- Shell (kinda, not too experienced in it)
 - HTML
 - CSS
 
