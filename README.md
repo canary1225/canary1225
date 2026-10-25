@@ -5,6 +5,7 @@ welcome to my profile
 - USA
 - Eastern Standard Time
 - Minor, He/Him
+- Self-taught Hobbyist
 - Linux Larper
 - Anti-Vibecoding
 
